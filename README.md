@@ -6,6 +6,8 @@
 </p>
 
 # Radian
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ahmednuaman/radian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/ahmednuaman/radian.png)](https://travis-ci.org/ahmednuaman/radian)
 [![Selenium Test Status](https://saucelabs.com/buildstatus/ahmednuaman-radian)](https://saucelabs.com/u/ahmednuaman-radian)
 
